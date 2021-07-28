@@ -1,0 +1,11 @@
+{
+  "name": "marktwainquotesfinal-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptTwo.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Eileen Ratcliff",
+  "license": "ISC"
+}
